@@ -1,2 +1,3 @@
 # Primero_projetoIAED
-Nada a dizer
+"Não metam scanfs" Luis
+isto podia estar melhor
