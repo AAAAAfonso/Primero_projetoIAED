@@ -1,3 +1,3 @@
 # Primero_projetoIAED
-"Não metam scanfs" Luis
-isto podia estar melhor
+Projeto proposto pela cadeira de IAED
+Classificação: 20 de 0/20
