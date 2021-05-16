@@ -1,4 +1,4 @@
-# Primero_projetoIAED
+# Primero projeto IAED
 Projeto proposto pela cadeira de IAED
 
 ## Classificação 
